@@ -15,6 +15,8 @@ We teamed up first . Divided work of Android Dev and Electronics  . The Electron
 - Open the (arduino code repo link) and add your firebase account host URL and authorization token and SSID and password of your local network.
 - Clone the repo.
   `git clone https://github.com/himanshushah05/LedBuzz`
+- For App Clone the repo.
+  `git clone https://github.com/Jatin887/LedBuzz-App`
 - Checkout to a new branch.
   `git checkout -b my-amazing-feature`
 - Make some amazing changes.
